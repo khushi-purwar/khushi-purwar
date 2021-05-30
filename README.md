@@ -6,7 +6,7 @@
 - 📫 How to reach me on
 - Email: khushipurwar4@gmail.com
 - LinkedIn: https://www.linkedin.com/in/khushi-purwar/
-
+- 😇 Pronouns: She/her
 <!--
 **khushi-purwar/khushi-purwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
