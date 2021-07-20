@@ -18,5 +18,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi-purwar&show_icons=true&locale=en" alt="khushi-purwar" /></p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushi-purwar)](https://github.com/anuraghazra/github-readme-stats)
-
