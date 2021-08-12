@@ -52,6 +52,9 @@ Projects play a major role in showcasing your skills. They help in predicting sk
 | Project Name      | Description | 
 | :---:        |    :----   |  
 | [Netflix-UI-Clone](https://netflix-ui-clone-f5shlnag5-khushi-purwar.vercel.app/)     | Netflix UI clone App built with HTML, CSS and JavaScript.
+| [Zomato Landing Page](https://awesome-food-landing-page.vercel.app/) | Landing Page built with HTML and CSS only.
+| [BookMyShow-Clone](https://book-my-show-khushi.vercel.app/)     | BookMyShow clone built with ReactJs, movie api integration and payment integration.
+| [Recipe-Finder](https://khushi-purwar.github.io/Recipe-Finder/) |  Recipe Finder Application built with ReactJS, styled components and food api integration. A single page web application that allows users to search recipes based on their query.
 
 
 <h1 align="center">Let's Get Connected</h1>
