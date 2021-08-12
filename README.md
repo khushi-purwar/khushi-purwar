@@ -51,8 +51,8 @@ I am active on LinkedIN and Discord as well. You can reach out to me I will be h
 
 <table>
   <tr>
+     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi-purwar&show_icons=true&theme=dracula" alt="khushi-purwar" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-purwar&show_icons=true&theme=yeblu&langs_count=8" alt="khushi-purwar" /></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi-purwar&show_icons=true&theme=dracula" alt="khushi-purwar" /></td>
   </tr>
 </table>
 
@@ -60,6 +60,7 @@ I am active on LinkedIN and Discord as well. You can reach out to me I will be h
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-purwar&theme=shades-of-purple" alt="khushi-purwar" /></p>
   </div>
 
- [![khushi-purwar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=khushi-purwar&theme=xcode)](https://git.io/khushi-purwar)
+ [![Khushi Purwar's github activity graph](https://activity-graph.herokuapp.com/graph?username=khushi-purwar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
