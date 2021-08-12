@@ -51,7 +51,7 @@ Projects play a major role in showcasing your skills. They help in predicting sk
 
 | Project Name      | Description | 
 | :---:        |    :----   |  
-| [Netflix-UI-Clone]()     | Netflix UI clone App built with HTML, CSS and JavaScript.
+| [Netflix-UI-Clone](https://netflix-ui-clone-f5shlnag5-khushi-purwar.vercel.app/)     | Netflix UI clone App built with HTML, CSS and JavaScript.
 
 
 <h1 align="center">Let's Get Connected</h1>
