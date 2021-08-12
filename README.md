@@ -40,12 +40,7 @@ I am learning web development and having knowledge of HTML, CSS, Javascript, Nod
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" />
    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab" />
 </p>
-   
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-purwar&show_icons=true&theme=yeblu&langs_count=8" alt="khushi-purwar" />
-
   
-
-
 <h1 align="center">Projects</h1>
 
 <p>Projects play a major role in showcasing our skills. They help in predicting skills of a person. So let's have a look at my project section.</p>
@@ -73,9 +68,13 @@ I am active on LinkedIN and Discord as well. You can reach out to me I will be h
 <table>
   <tr>
      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi-purwar&show_icons=true&theme=dracula" alt="khushi-purwar" /></td>
-     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-purwar&theme=shades-of-purple" alt="khushi-purwar" /></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-purwar&show_icons=true&theme=dark&locale=en&layout=compact" alt="khushipurwar" /></td>
   </tr>
 </table>
+   
+   <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-purwar&theme=shades-of-purple" alt="khushi-purwar" />
+   </div>
 
  [![Khushi Purwar's github activity graph](https://activity-graph.herokuapp.com/graph?username=khushi-purwar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
