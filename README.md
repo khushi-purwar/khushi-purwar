@@ -1,28 +1,65 @@
-<h1 align="center">Hi 👋, I'm Khushi Purwar</h1>
-<h3 align="center">A passionate Full Stack Web Developer </h3>
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/khushi-purwar/" target="_blank"> Khushi Purwar </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
+A bit about Myself, I am <b>Khushi Purwar</b> pursuing a <b>Computer Science Degree</b> from Amity University, Gwalior. As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. ⚡
 
+<h3 align="center">A Passionate Web Developer | Data Scientist | Machine learning enthusiast </h3>
 
-- 🌱 I’m currently learning **ReactJs**
-- 🌱 I’m also learning **Machine Learning and Data Science**
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=khushi-purwar&label=Profile%20views&color=6805D3&style=flat" alt="profileviews" /> </p></h3>
+   <div align="center">
 
+<h1>Technical Skills 🛠</h1>
+   
+I am learning web development and having knowledge of HTML, CSS, Javascript, NodeJS and MongoDB. Currently, I am learnign ReactJS and Machine Learning. Beside that I also have knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-purwar&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-purwar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi-purwar" alt="khushi-purwar" /></a> </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/khushi-purwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khushi-purwar" height="30" width="40" /></a>
+<p align="center"> 
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
+   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+ <img alt="Vs-Code" src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
+    <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react" />
+    <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+    <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" /> 
+   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+  
+Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+
+<h1 align="center">Projects</h1>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-purwar&show_icons=true&theme=yeblu&langs_count=8" alt="khushi-purwar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi-purwar&show_icons=true&theme=dracula" alt="khushi-purwar" /></p>
 
+| Project Name      | Description | 
+| :---:        |    :----   |  
+| [Netflix-UI-Clone]()     | Netflix UI clone App built with HTML, CSS and JavaScript.
+
+
+<h1 align="center">Let's Get Connected</h1>
+
+I am active on LinkedIN and Discord as well. You can reach out to me I will be happy to help</p>
+
+<div align="center">
+
+<a  href="https://www.linkedin.com/in/khushi-purwar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mesouravofficial@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</div>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-purwar&show_icons=true&theme=yeblu&langs_count=8" alt="khushi-purwar" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi-purwar&show_icons=true&theme=dracula" alt="khushi-purwar" /></td>
+  </tr>
+</table>
+
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-purwar&theme=shades-of-purple" alt="khushi-purwar" /></p>
+  </div>
+
+ [![khushi-purwar's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=khushi-purwar&theme=xcode)](https://git.io/khushi-purwar)
+
+
