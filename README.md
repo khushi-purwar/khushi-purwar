@@ -1,9 +1,9 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/khushi-purwar/" target="_blank"> Khushi Purwar </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
-A bit about Myself, I am <b>Khushi Purwar</b> pursuing a <b>Computer Science Degree</b> from Amity University, Gwalior. As of now, I am focused on <b>web development, Data Science and Machine Learning </b> but still, wish to explore many fields. I have done open source contribution in LGMSoC'21 as well ⚡
+A bit about Myself, I am <b>Khushi Purwar</b> pursuing a <b>Computer Science Degree</b> from Amity University, Gwalior. As of now, I am focused on <b>web development and Machine Learning </b> but still, wish to explore many fields. I have done open source contribution in LGMSoC'21 as well ⚡
 
-<h3 align="center">A Passionate Web Developer | Data Scientist | Machine learning enthusiast | Contributor </h3>
+<h3 align="center">A Passionate Web Developer | Machine learning enthusiast | Contributor </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=khushi-purwar&label=Profile%20views&color=6805D3&style=flat" alt="profileviews" /> </p></h3>
    <div align="center">
