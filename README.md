@@ -62,7 +62,7 @@ I am active on LinkedIN and Discord as well. You can reach out to me I will be h
 
 <a  href="https://www.linkedin.com/in/khushi-purwar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="khushipurwar4@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  
+   <a href="https://linktr.ee/khushi14" > <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" /> </a>
 </div>
 
 <table>
