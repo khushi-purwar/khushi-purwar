@@ -8,7 +8,7 @@ A bit about Myself, I am <b>Khushi Purwar</b> pursuing a <b>Computer Science Deg
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=khushi-purwar&label=Profile%20views&color=6805D3&style=flat" alt="profileviews" /> </p></h3>
    <div align="center">
 
-<h1>Technical Skills 🛠</h1>
+<h1>Technical Skills <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h1>
    
 I am learning web development and having knowledge of HTML, CSS, Javascript, NodeJS and MongoDB. Currently, I am learnign ReactJS and Machine Learning. Beside that I also have knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
 
@@ -64,6 +64,8 @@ I am active on LinkedIN and Discord as well. You can reach out to me I will be h
 <a href="khushipurwar4@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
    <a href="https://linktr.ee/khushi14" > <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" /> </a>
 </div>
+   
+   <h1 align="center">My Github Stats</h1>
 
 <table>
   <tr>
@@ -77,6 +79,7 @@ I am active on LinkedIN and Discord as well. You can reach out to me I will be h
    </div>
 
  [![Khushi Purwar's github activity graph](https://activity-graph.herokuapp.com/graph?username=khushi-purwar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+   
+  
 
 
