@@ -78,7 +78,7 @@ I am active on LinkedIN and Discord as well. You can reach out to me I will be h
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-purwar&theme=shades-of-purple" alt="khushi-purwar" />
    </div>
 
- [![Khushi Purwar's github activity graph](https://activity-graph.herokuapp.com/graph?username=khushi-purwar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Khushi Purwar's github activity graph](https://activity-graph.herokuapp.com/graph?username=khushi-purwar&theme=react-dark)](https://github.com/khushi-purwar/github-readme-activity-graph)
    
   
 
