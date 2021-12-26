@@ -1,4 +1,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/khushi-purwar/" target="_blank"> Khushi Purwar </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Web+Developer;Programmer;Contributor)](https://git.io/typing-svg)
+
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
 A bit about Myself, I am <b>Khushi Purwar</b> pursuing a <b>Computer Science Degree</b> from Amity University, Gwalior. As of now, I am focused on <b>web development and Machine Learning </b> but still, wish to explore many fields. I have done open source contribution in LGMSoC'21 as well ⚡
