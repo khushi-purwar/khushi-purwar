@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Data-Driven+Solutions;Exploring+AI+%26+Machine+Learning;Developing+Intelligent+AI+Agents;Turning+Data+Into+Insights" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushi-purwar&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
