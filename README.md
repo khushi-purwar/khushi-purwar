@@ -1,88 +1,124 @@
-<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/khushi-purwar/" target="_blank"> Khushi Purwar </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/khushi-purwar/">Khushi Purwar</a></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Web+Developer;Programmer;Contributor)](https://git.io/typing-svg)
+<h3 align="center">
+  Data Engineer | AI Engineer | Agentic AI Enthusiast
+</h3>
 
-<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
-
-A bit about Myself, I am <b>Khushi Purwar</b> pursuing a <b>Computer Science Degree</b> from Amity University, Gwalior. As of now, I am focused on <b>web development and Machine Learning </b> but still, wish to explore many fields. I have done open source contribution in LGMSoC'21 as well ⚡
-
-<h3 align="center">A Passionate Web Developer | Machine learning enthusiast | Contributor </h3>
-
-<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=khushi-purwar&label=Profile%20views&color=6805D3&style=flat" alt="profileviews" /> </p></h3>
-   <div align="center">
-
-<h1>Technical Skills <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h1>
-   
-I am learning web development and having knowledge of HTML, CSS, Javascript, NodeJS and MongoDB. Currently, I am learnign ReactJS and Machine Learning. Beside that I also have knowledge of C++. I also know how to use Vs-Code for doing contribution on github and also learning git.
-
-<p align=""> 
-
-   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
- <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />   
-   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
-   
-  
-   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind css" />
-   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
-     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
-   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
-   
- <img alt="Vs-Code" src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" />
-   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="colab" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+Data-Driven+Solutions;Exploring+AI+%26+Machine+Learning;Developing+Intelligent+AI+Agents;Turning+Data+Into+Insights" alt="Typing SVG" />
 </p>
-  
-<h1 align="center">Projects</h1>
 
-<p>Projects play a major role in showcasing our skills. They help in predicting skills of a person. So let's have a look at my project section.</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khushi-purwar&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
 
+---
 
-| Project Name      | Description | 
-| :---:        |    :----   |  
-| [Netflix-UI-Clone](https://netflix-ui-clone-f5shlnag5-khushi-purwar.vercel.app/)     | Netflix UI clone App built with HTML, CSS and JavaScript.
-| [Zomato Landing Page](https://awesome-food-landing-page.vercel.app/) | Landing Page built with HTML and CSS only.
-| [BookMyShow-Clone](https://book-my-show-khushi.vercel.app/)     | BookMyShow clone built with ReactJs, movie api integration and payment integration.
-| [Recipe-Finder](https://khushi-purwar.github.io/Recipe-Finder/) |  Recipe Finder Application built with ReactJS, styled components and food api integration. A single page web application that allows users to search recipes based on their query.
+## 🚀 About Me
 
+Hi! I'm **Khushi Purwar**, a Computer Science graduate/student from Amity University, Gwalior, passionate about building intelligent, data-driven solutions.
 
-<h1 align="center">Let's Get Connected</h1>
+I'm expanding my skills across **Data Engineering, Artificial Intelligence, Machine Learning, and Agentic AI**. I enjoy exploring how data pipelines, analytics, and AI systems work together to solve real-world problems.
 
-I am active on LinkedIN and Discord as well. You can reach out to me I will be happy to help</p>
+- 🔭 Exploring data engineering, AI applications, and intelligent automation.
+- 🌱 Learning to build reliable data workflows and AI-powered applications.
+- 🧠 Interested in LLMs, Retrieval-Augmented Generation (RAG), and AI agents.
+- 🛠️ Experienced with web development fundamentals and programming.
+- 🤝 Interested in open-source contributions and collaborative projects.
+- 🎯 Goal: Build scalable data systems and practical AI solutions.
 
-<div align="center">
+---
 
-<a  href="https://www.linkedin.com/in/khushi-purwar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="khushipurwar4@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-   <a href="https://linktr.ee/khushi14" > <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="linktree" /> </a>
-</div>
-   
-   <h1 align="center">My Github Stats</h1>
+## 💻 Technical Skills
 
-<table>
-  <tr>
-     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi-purwar&show_icons=true&theme=dracula" alt="khushi-purwar" /></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi-purwar&show_icons=true&theme=dark&locale=en&layout=compact" alt="khushipurwar" /></td>
-  </tr>
-</table>
-   
-   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-purwar&theme=shades-of-purple" alt="khushi-purwar" />
-   </div>
+### 🐍 Programming Languages
 
- [![Khushi Purwar's github activity graph](https://activity-graph.herokuapp.com/graph?username=khushi-purwar&theme=react-dark)](https://github.com/khushi-purwar/github-readme-activity-graph)
-   
-  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
 
+### 🗄️ Data Engineering & Databases
 
+<p>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/ETL%2FELT-2E8B57?style=for-the-badge" alt="ETL/ELT" />
+  <img src="https://img.shields.io/badge/Data_Pipelines-1565C0?style=for-the-badge" alt="Data Pipelines" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+### 🤖 AI, Generative AI & Agentic AI
+
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/MCP-6A5ACD?style=for-the-badge" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Tool_Calling-00897B?style=for-the-badge" alt="Tool Calling" />
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="Large Language Models" />
+  <img src="https://img.shields.io/badge/RAG-00897B?style=for-the-badge" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- **Data Engineering:** Data modeling, ETL/ELT, pipeline orchestration, and data quality.
+- **AI & Machine Learning:** Model development, evaluation, and deployment fundamentals.
+- **Generative AI:** LLM APIs, prompt engineering, embeddings, and RAG.
+- **Agentic AI:** Tool calling, multi-step workflows, memory, and agent evaluation.
+- **Engineering Practices:** Git, Docker, testing, documentation, and reproducible workflows.
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/khushi-purwar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/khushi-purwar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khushi-purwar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushi-purwar&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khushi-purwar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning data into insights and ideas into intelligent solutions."</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to explore my repositories and connect!
+</p>
